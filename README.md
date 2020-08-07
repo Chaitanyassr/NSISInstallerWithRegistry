@@ -12,3 +12,4 @@ NSIS (Nullsoft Scriptable Install System) code to create an installer and to reg
 - Put the uninstall url registry path if you want under install url registry section.
 
 - Test the above script using the given webpage - https://github.com/Chaitanyassr/AppopnerURLRegistry/
+- <strong>NOTE</strong> - a test exe and installer is given in the repo.
