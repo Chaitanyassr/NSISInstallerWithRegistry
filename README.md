@@ -10,3 +10,5 @@ NSIS (Nullsoft Scriptable Install System) code to create an installer and to reg
 - For test whiteboard.exe file is included. You can add more files if you want.
 - Make sure to have those files in the same folder where script is when creating installer.
 - Put the uninstall url registry path if you want under install url registry section.
+
+- Test the above script using the given webpage - https://github.com/Chaitanyassr/AppopnerURLRegistry/
