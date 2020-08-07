@@ -1,7 +1,8 @@
 # NSISInstallerWithRegistry
 NSIS (Nullsoft Scriptable Install System) code to create an installer and to register URL.
 
-##steps
+## How to use the script
+## steps
 - Install NSIS installer
 - Click on compile script
 - Put the above script given
